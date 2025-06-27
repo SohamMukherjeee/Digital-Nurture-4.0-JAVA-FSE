@@ -1,0 +1,40 @@
+# =========================
+# Java / Maven / JUnit
+# =========================
+
+# Compiled class files
+*.class
+
+# Maven build directories
+/target/
+
+# Logs
+*.log
+
+# IDEs & Editors
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output / caches
+/.classpath
+/.project
+/.settings/
+/bin/
+/out/
+
+# Maven wrapper files (optional to ignore)
+/.mvn/wrapper/maven-wrapper.jar
+
+# Environment / secrets
+*.env
+*.local
+*.secret
