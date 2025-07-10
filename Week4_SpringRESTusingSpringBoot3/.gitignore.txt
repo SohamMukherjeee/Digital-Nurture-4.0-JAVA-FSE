@@ -1,0 +1,11 @@
+# Ignore all Maven target folders
+**/target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS junk
+Thumbs.db
+.DS_Store
